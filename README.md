@@ -6,4 +6,4 @@ the clients
 2. ChatClient.java: creates a connection to server and GUI for sending the message.
 3. Login.java: create a simple dialog box for inputing the username
 It implements the chat on localhost, can be changed just by uodating the IP address.
-Usefull in college LAN coverage. Can also built file sharing on the same principle.
+Usefull in college LAN coverage. Can also built file sharing on the same principle. The project will be introduced soon.
